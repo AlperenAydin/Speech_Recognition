@@ -11,4 +11,5 @@ I will be using the TIMIT dataset [2] as it is the one used by [1]. This would m
 
 
 [1]: A. Graves, A. Mohamed and G. Hinton, "Speech Recognition With Deep Recurrent Neural Networks"
+
 [2]: DARPA-ISTO,The DARPA TIMIT Acoustic-Phonetic Continuous  Speech  Corpus  (TIMIT),  speech  disc  cd1-1.1 edition, 1990
